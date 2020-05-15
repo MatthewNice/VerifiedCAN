@@ -19,6 +19,6 @@ You can confirm this in the </p>
 
 ![18 wheeler video](18wheeler_bsm_480p.mov).
 
-<p>In the 18 wheeler video, a car also passes on the left (plots indicate at 15:25:49).Both the right side and left side BSM signals are accurate.</p>
+<p>In the 18 wheeler video, a car also passes on the left (plots below indicate at 15:25:49).Both the right side and left side BSM signals are accurate.</p>
 
 ![bsm](left_18wheeler_bsm.png)
