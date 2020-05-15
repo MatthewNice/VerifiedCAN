@@ -20,6 +20,7 @@ The following plot was generated using the [strym](https://github.com/jmscslgrou
 ### Test video:
 ---
 A video for the conducted test is in the following link.
+
 [![Plotting RPM message from Rav4 CAN bus](http://img.youtube.com/vi/cmY9Eaxb0kc/0.jpg)](https://www.youtube.com/watch?v=cmY9Eaxb0kc)
 ---
 
