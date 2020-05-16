@@ -8,7 +8,7 @@
 
 <p>We can confirm both of these in the video.</p>
 
-![Video Link](BSM_right_480p.mov)
+[Video Link](https://youtu.be/FACmYOg_Ixg)
 
 <p>The reason why the BSM doesn't report the second car as approaching is because its relative velocity is so low. Makes sense, to avoid a false positive of an approaching vehicle. Additionally, this is the exception; the vast majority of the time, the car is recognized as approaching before adjacent.</p>
 
