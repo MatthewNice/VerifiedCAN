@@ -25,7 +25,7 @@ Using the integration function implemented in [strym](https://github.com/jmscslg
 
 ### Speering angle and the integrated steering rate:
 ---
-By plotting the speering angle and the integrated steering rate on the same figure, the two graphs seems idneticals. This makes us confident that steeing angle singnal is reporting correct values.
+By plotting the speering angle and the integrated steering rate on the same figure, the two graphs seem to be identical. This makes us confident that steeing angle singnal is reporting correct values.
 
 ![Steering Angle](steering_integRate.png)
 ---
