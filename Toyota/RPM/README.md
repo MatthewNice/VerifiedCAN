@@ -13,7 +13,7 @@ The csv file contains a raw CAN bus messages, and it was recorded under the foll
 
 ### Plotted Data:
 ---
-The following plot was generated using the [strym](https://github.com/jmscslgroup/strym) package that is used to decode CAN bus messages. 
+The following plot was generated using the [strym](https://github.com/jmscslgroup/strym) package that is used to decode, visualize, and analyse CAN bus messages. 
 
 ![RPM](RPMplot.png)
 ---
