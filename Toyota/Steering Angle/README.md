@@ -11,7 +11,7 @@ The goal here is to verify that the message with id 37 provides the steering ang
 
 ### Speering angle and steering rate:
 --- 
-The steeing angle and steeting rate singals are plotted side by side.
+The steeing angle and steeting rate singals are plotted side by side. The y-axis is deg/sec.
  
 ![Steering Angle](steering_angle.png)
 ---
