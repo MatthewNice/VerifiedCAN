@@ -19,11 +19,13 @@ The steeing angle and steeting rate singals are plotted side by side. The y-axis
 ### Integration of steering rate:
 ---
 Using an integration function implemented in [strym](https://github.com/jmscslgroup/strym) package, we plotted the steeting rate after integration.
+
 ![Steering Angle](integ_rate.png)
 ---
 
 ### Speering angle and the integrated steering rate:
 ---
 By plotting the speering angle and the integrated steering rate on the same figure, the two graphs seems idneticals. This makes us confident that steeing angle singnal is reporting correct values.
+
 ![Steering Angle](steering_integRate.png)
 ---
