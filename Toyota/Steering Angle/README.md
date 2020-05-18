@@ -18,7 +18,7 @@ The steeing angle and steeting rate singals are plotted side by side. The y-axis
 
 ### Integration of steering rate:
 ---
-Using an integration function implemented in [strym](https://github.com/jmscslgroup/strym) package, we plotted the steeting rate after integration.
+Using the integration function implemented in [strym](https://github.com/jmscslgroup/strym) package, we plotted the steeting rate after integration.
 
 ![Steering Angle](integ_rate.png)
 ---
