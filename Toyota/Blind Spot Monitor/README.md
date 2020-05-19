@@ -6,8 +6,8 @@
 
 ![BSM](BSM_right.png)
 
-We can confirm both of these in the [dashcam video](https://youtu.be/FACmYOg_Ixg).
-
+We can confirm both of these in the [dashcam video](https://youtu.be/FACmYOg_Ixg).<br>
+[![BSM](http://img.youtube.com/vi/FACmYOg_Ixg/0.jpg)](http://www.youtube.com/watch?v=FACmYOg_Ixg "Dashcam Video")
 
 <p>The reason why the BSM doesn't report the second car as approaching is because its relative velocity is so low. Makes sense, to avoid a false positive of an approaching vehicle. Additionally, this is the exception; the vast majority of the time, the car is recognized as approaching before adjacent.</p>
 
@@ -15,8 +15,8 @@ We can confirm both of these in the [dashcam video](https://youtu.be/FACmYOg_Ixg
 
 <p>Another peculiarity -- two segments of approaching vehicles in the plot above, but on extended adjacent vehicle segment. That's when a tractor trailer passed, makes sense especially when you see the shape of the trailer! Plots show approaches at 15:25:43, 15:25:50 and adjacent at 15:25:46.</p>
 
-You can confirm this in the [18 wheeler video](https://youtu.be/VOQVzmjUqKA).
-
+You can confirm this in the [18 wheeler video](https://youtu.be/VOQVzmjUqKA).<br>
+[![dashcam video](http://img.youtube.com/vi/VOQVzmjUqKA/0.jpg)](http://www.youtube.com/watch?v=VOQVzmjUqKA "18wheeler video")
 
 
 <p>In the 18 wheeler video, a car also passes on the left (plots below indicate at 15:25:49).Both the right side and left side BSM signals are accurate.</p>
