@@ -11,7 +11,7 @@ The following figure shows speed message plotted.
 ![speed](SpeedMsg.png)
 ---
 
-### : Longitudinal acceleration plot:
+### Longitudinal acceleration plot:
 ---
 The following figure show the longitudinal acceleration (in the x-direction).
 
@@ -22,5 +22,5 @@ The following figure show the longitudinal acceleration (in the x-direction).
 ---
 Using the integration function implemented in [strym](https://github.com/jmscslgroup/strym) package, we plotted the acceleration signal after integration. As seen in the figure, the integration of the accelearion signal gave us back the speed graph, and as a result we are confident that message 552 reports the accelation of the vehicle.
 
-![Integration of accel](integration_accel_xpng)
+![Integration of accel](integration_accel_x.png)
 ---
