@@ -1,8 +1,10 @@
 ## Steering Angle: message id=37
 
+### Live Test Video
+---
 [![Steering Angle Video](http://img.youtube.com/vi/RlswOAV-BDg/0.jpg)](http://www.youtube.com/watch?v=RlswOAV-BDg "Steering Angle")<br/>
-Video shows reading steering angle live.<br/>
-</br>
+Video shows reading steering angle live.
+
 The following plots were generated using the [strym](https://github.com/jmscslgroup/strym) package that is used to decode, visualize, and analyse CAN bus messages.<br/> 
 The goal here is to verify that the message with id 37 provides the steering angle.<br/> Message 37 has two signals: steeing angle and steeting rate.<br/> The csv file contains raw CAN bus messages, and it was recorded under the following conditions:
 + The vehicle is stationary. 
