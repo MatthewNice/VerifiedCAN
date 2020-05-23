@@ -1,2 +1,2 @@
-This video shows the radar sensor points and Lead Distance signal on a live plot when pulling in and out of a parking spot.
-[![LeadDistance Video](http://img.youtube.com/vi/JzTOpfXfqMA/0.jpg)](http://www.youtube.com/watch?v=JzTOpfXfqMA "Lead Distance")
+This video shows the live signal of the brake sensor as it is being pushed and releasd.
+[![BrakesVideo](http://img.youtube.com/vi/j03NgqMSeJc/0.jpg)](http://www.youtube.com/watch?v=j03NgqMSeJc "Brakes")
