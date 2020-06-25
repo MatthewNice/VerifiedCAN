@@ -20,8 +20,8 @@ This plot uses the same message id, and shows when the pedal was totally release
 
 ### See both combined:
 ---
-Here they are overlaid to see how they go together, and then with the longitudinal acceleration added showing how the accelerator data lines up as it should with acceleration. Notice how large spikes in acceleration coincide with the large bumps in accelerator being depressed. Notice also how when there are large decelerations the pedal is released (presumably the brake pedal is also being pressed too). There are lots of evironmental factors that affect acceleration and accelerator use such as traffic density, speed limit, and road grade that aren't shown here, but this is still a convincing set of plots.
+Here they are overlaid to see how they go together, and then with the longitudinal acceleration and brakes added showing how the accelerator data lines up as it should. Notice how large spikes in acceleration coincide with the large bumps in accelerator being depressed. Notice also how when there are large decelerations the pedal is released (when the brake is pressed), and other times it's clear the driver is just coasting. There are lots of evironmental factors that affect acceleration and accelerator use such as traffic density, speed limit, and road grade that aren't shown here, but this is still a convincing set of plots.
 
 ![both signals](gas_overlay.png)
-![pedal with accelx](gas_vs_accelx.png)
+![pedal with accelx](gasbrakes.png)
 ---
