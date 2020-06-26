@@ -13,4 +13,4 @@ You can see a section in the first half that is the same as the Track 1 raw rada
 This video shows the radar sensor points and Lead Distance signal on a live plot when pulling in and out of a parking spot.
 [![LeadDistance Video](http://img.youtube.com/vi/JzTOpfXfqMA/0.jpg)](http://www.youtube.com/watch?v=JzTOpfXfqMA "Lead Distance")
 
-Using hybrid techniques that leverage Kalman filtering and clustering algorithms, we can get the reliability of the Processed Radar with the precision that meets or exceeds the raw radar data for the position of the lead vehicle.
+In the video, it's evident that the processed 869 signal is a rounded floor of the true state. I.e. it will output 5 meters distance for 5.9 meters or 5.1 meters of true distance. For many applications, even likely the stock ACC system on the Toyota vehicle, this rounding is close enough. Using hybrid techniques that leverage Kalman filtering and clustering algorithms, we can get the reliability of the Processed Radar with the precision that meets or exceeds the raw radar data for the position of the lead vehicle.
