@@ -22,3 +22,9 @@ This plot was created by using message id 353 which has signal for the longitudi
 
 ![Speed](DSU_SPEED.png)
 ---
+
+
+Supplement:
+
+Video: [video from control testing on surface streets](https://www.youtube.com/watch?v=GkdbEH5qosg)
+Data: Speed data from the timeframe of that video. ![Speed](velocity_cbf_02-25-2022.png)
