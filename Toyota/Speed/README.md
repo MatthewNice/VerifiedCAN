@@ -27,4 +27,7 @@ This plot was created by using message id 353 which has signal for the longitudi
 Supplement:
 
 Video: [video from control testing on surface streets](https://www.youtube.com/watch?v=GkdbEH5qosg)
+![Video](http://img.youtube.com/vi/GkdbEH5qosg/0.jpg)
 Data: Speed data from the timeframe of that video. ![Speed](velocity_cbf_02-25-2022.png)
+
+
